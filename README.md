@@ -1,0 +1,2 @@
+# orkuncalismaalani
+yetgende yaptığım şeyler 
