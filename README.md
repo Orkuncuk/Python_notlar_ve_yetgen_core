@@ -1,2 +1,2 @@
 # orkuncalismaalani
-yetgende yaptığım şeyler 
+bu repoyu yeni jump içerikleri için oluşturdum.
