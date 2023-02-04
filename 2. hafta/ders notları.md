@@ -11,5 +11,8 @@ sep parametesi gibi print() fonkisyonunun içinde gömülü olarak hep bulunur. 
 üstteki her iki parametrede printin içinde direk tanımldıır yani vardır ama "" içindeki değer hep boştur. yani yazılmaığı zaman şu sekilde var olurlar:
 - **print(" hello world" , sep="", end="")**
 ## not2
-eğer print içersinde ' ile ayrılması gereken bir şey varsa print " ile yazılmalıdır. 
+eğer print içersinde ' ile ayrılması gereken bir şey varsa print " ile yazılmalıdır. bu yüzden genellikle "" kullanman daha sağlıklı olacaktır.
 -ex: *yanlış* print('ahmet'in telefonu') , *doğru* print(" ahmet'in telefonu")
+## not3
+syntaxerror = yazım hatası
+-ex: print "hello world" burada parantez kullanmadığım için syntaxerror alacağım.
