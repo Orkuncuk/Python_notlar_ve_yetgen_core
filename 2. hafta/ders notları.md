@@ -19,3 +19,8 @@ syntaxerror = yazım hatası
 ### not4
 .py uzantılı dosyalarda çoklu yorum satırı içim ''' kullanılır
 - ex: ''' bla bla bla  ''' 
+
+# değişkenler
+değişkenler bir verinin deieğerini saklamayı sağlar.
+verilerin sonradan değiştirilmesine olanak sağlar. 
+kodlar sırasıyla çalışır.
