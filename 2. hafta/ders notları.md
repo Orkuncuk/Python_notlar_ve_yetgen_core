@@ -40,3 +40,11 @@ camelCase adlandrıma da (1. kelimenin ilk harfi küçük 2. ise büyük yazma) 
 
 # type() fonksiyonu
 bir değişkenin integor, float, string ya da boolean olup olmadığını verir. yani veri tipini verir.
+
+## sayı veri türleri
+- int 
+tam sayıları temsil eder.
+mesela 5 10 20 -50
+- float
+ondalık sayıları temsil eder.
+mesela 21.0 3.7 9.5 -7.4
