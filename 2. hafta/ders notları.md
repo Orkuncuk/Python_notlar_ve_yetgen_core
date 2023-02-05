@@ -61,4 +61,6 @@ kaç tırnak ile başlandıysa o sayıda bitirilmelidir.
 kullanıcıdan veri girişi almamızı sağlar.
 input ile veri alırken string gibi davranır bu yüzden sayı alcaksan int ya da float kullan.
 
+## ek not
+\n, \", \', \\ bunlar özel karakterdir ve python string içine virgül satır atlama gibi özellikleri eklememizi sağlar.
 
