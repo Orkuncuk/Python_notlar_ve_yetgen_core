@@ -48,3 +48,17 @@ mesela 5 10 20 -50
 - float
 ondalık sayıları temsil eder.
 mesela 21.0 3.7 9.5 -7.4
+
+# string
+metinsel ifadelerdir ve '' / "" / '''''' şeklinde yazılmaları gerekir.
+kaç tırnak ile başlandıysa o sayıda bitirilmelidir.
+- ex: degisken = "altı" [ doğru kullanım]
+- ex: degisken = "altı' [ yanlış kullanım]
+**yazılımda index 0'dan başlar sola doğru ise -1'den başlar.**
+- ex: degisken = "orkun", 0. index = o / 1. index = r / -1. index = n
+
+# input() fonskiyonu
+kullanıcıdan veri girişi almamızı sağlar.
+input ile veri alırken string gibi davranır bu yüzden sayı alcaksan int ya da float kullan.
+
+
