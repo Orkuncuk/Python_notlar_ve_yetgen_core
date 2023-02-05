@@ -32,7 +32,11 @@ kodlar sırasıyla çalışır.
 
 ### not1 
 Değişken adlandırırken türkçe karakter kullanmamaya dikkat et.
+değişkenler büyük küçük harfe duyarlıdır.
 değişken adlandırırken boşluk yerine _(snake_case) kullanabilirsin.
 - ex: orkun_aktai = "bekar"
 camelCase adlandrıma da (1. kelimenin ilk harfi küçük 2. ise büyük yazma) kullanabilirsin.
 - ex: orkunAktas = "bekar"
+
+# type() fonksiyonu
+bir değişkenin integor, float, string ya da boolean olup olmadığını verir. yani veri tipini verir.
