@@ -24,3 +24,15 @@ syntaxerror = yazım hatası
 değişkenler bir verinin deieğerini saklamayı sağlar.
 verilerin sonradan değiştirilmesine olanak sağlar. 
 kodlar sırasıyla çalışır.
+
+## değişken tanımlama kuralları
+- 1orkun = hatalı adlanrıma + bu bir syntaxerror hatasıdır.
+- orkun1 = doğru adlandırma
+- _orkun = doğru adlandırma
+
+### not1 
+Değişken adlandırırken türkçe karakter kullanmamaya dikkat et.
+değişken adlandırırken boşluk yerine _(snake_case) kullanabilirsin.
+- ex: orkun_aktai = "bekar"
+camelCase adlandrıma da (1. kelimenin ilk harfi küçük 2. ise büyük yazma) kullanabilirsin.
+- ex: orkunAktas = "bekar"
